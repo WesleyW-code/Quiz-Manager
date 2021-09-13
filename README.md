@@ -7,3 +7,5 @@ This program combines SQL and Python, it will automatically create a new databas
 All the data will be saved in the appropriate database tables.
 
 There is a login proccess as well as the ability to add new quiz takers and quiz masters.
+
+I completed this project in partnership with Jarryd Robson.
