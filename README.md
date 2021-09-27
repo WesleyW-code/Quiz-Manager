@@ -1,4 +1,4 @@
-# QuizManagerV2
+# QuizManager
 Next iteration of the quiz project as per the requirements of the HyperionDev careers program
 
 ## Project Details
